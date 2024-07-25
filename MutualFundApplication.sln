@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutualFundApplication", "MutualFundApplication\MutualFundApplication.csproj", "{D13D6ED3-556F-44C2-A37A-B6B086582B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13D6ED3-556F-44C2-A37A-B6B086582B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13D6ED3-556F-44C2-A37A-B6B086582B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13D6ED3-556F-44C2-A37A-B6B086582B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13D6ED3-556F-44C2-A37A-B6B086582B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A3DD1C-94EE-4937-B365-3996A3259135}
+	EndGlobalSection
+EndGlobal
